@@ -1,0 +1,148 @@
+{
+  "produits": [
+    {
+      "reference": " ITEL-A172-DB",
+      "designation": "SMARTPHONE ITEL A17",
+      "marque": "Sandiskk",
+      "prix": "55",
+      "image": "images/smartphone-itel-a17.jpg",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "reference": " POP5-BK",
+      "designation": "SMARTPHONE TECNO POP 5",
+      "marque": "TECNO",
+      "prix": "400,000",
+      "image": "images/smartphone-tecno.jpg"
+    },
+    {
+      "id": 3,
+      "reference": "300221",
+      "designation": "ECOUTEURS AVEC MICRO POUR SMARTPHONES",
+      "marque": "samsung",
+      "prix": "30,000",
+      "image": "images/ecouteurs.jpg"
+    },
+    {
+      "id": 4,
+      "reference": "280S8EA-16",
+      "designation": "PC PORTABLE HP 15-DW1000NK",
+      "marque": "hp ",
+      "prix": "1 133,000",
+      "image": "images/pc-portable-hp-15.jpg"
+    },
+    {
+      "id": 5,
+      "reference": "81WB00XXFG",
+      "designation": "PC PORTABLE LENOVO IDEAPAD 3 15IML05",
+      "marque": "LENOVO",
+      "prix": "1 389,000",
+      "image": "images/pc-portable-lenovo-ideapad-3.jpg"
+    },
+    {
+      "id": 6,
+      "reference": " X509FA-BR952T-8",
+      "designation": "PC PORTABLE ASUS VIVOBOOK",
+      "marque": "ASUS",
+      "prix": "1 395,000",
+      "image": "images/pc-portable-asus.jpg"
+    },
+    {
+      "id": 7,
+      "reference": "N6501VN3500EMEA03",
+      "designation": "PC PORTABLE DELL VOSTRO 3500 ",
+      "marque": "DELL",
+      "prix": "1 419,000",
+      "image": "images/pc-portable-dell-vostro-.jpg"
+    },
+    {
+      "id": 8,
+      "reference": "MPL15289",
+      "designation": "PC PORTABLE LENOVO IDEAPAD 3 15IIL05",
+      "marque": "LENOVO",
+      "prix": "1 524,000",
+      "image": "images/pc-portable-lenovo-ideapad-3-15iil.jpg"
+    },
+    {
+      "id": 10,
+      "reference": "ECB-DU4AWC",
+      "designation": "CASQUE STÉRÉO SBOX",
+      "marque": "sbox",
+      "prix": "21,000",
+      "image": "images/casque-stereo-sbox.jpg"
+    },
+    {
+      "id": 11,
+      "reference": "T-RGH100",
+      "designation": "CASQUE MICRO GAMING",
+      "marque": "game",
+      "prix": "39,000",
+      "image": "images/casque-micro-gaming.jpg"
+    },
+    {
+      "id": 12,
+      "reference": "T-TGK205",
+      "designation": "CLAVIER GAMING MULTIMÉDIA",
+      "marque": "T-DAGGER",
+      "prix": "45,000",
+      "image": "images/clavier-gaming-multimedia.jpg"
+    },
+    {
+      "id": 13,
+      "reference": "GWC-004",
+      "designation": "WEBCAM USB WHITE SHARK OWL FULL HD 1080P",
+      "marque": "Shark",
+      "prix": "85,000",
+      "image": "images/webcam-usb-white-shark.jpg"
+    },
+    {
+      "id": 14,
+      "reference": "MYLC2NF/A",
+      "designation": "IPAD APPLE 10.2 WIFI",
+      "marque": "APPLE",
+      "prix": "1399,000",
+      "image": "images/ipad-apple-102-wifi-32-go-gold.jpg"
+    },
+    {
+      "id": 15,
+      "reference": " 294U5EA-UN",
+      "designation": "PC DE BUREAU HP PRO 300 G6",
+      "marque": "hp",
+      "prix": "989,000",
+      "image": "images/pc-de-bureau-hp-pro-300-g6-gold-g6400-4-go.jpg"
+    },
+    {
+      "id": 16,
+      "reference": "SM-TABS7FE-GR",
+      "designation": "TABLETTE SAMSUNG GALAXY TAB S7 FE 12.4",
+      "marque": "SAMSUNG",
+      "prix": "1789,000",
+      "image": "images/clavier-gaming-multimedia.jpg"
+    },
+    {
+      "id": 17,
+      "reference": "MYMM2NF/A",
+      "designation": "IPAD APPLE WIFI + CELLULAR 128 GO",
+      "marque": "APPLE",
+      "prix": "1999,000",
+      "image": "images/ipad-apple-wifi-cellular-128-go-argent.jpg"
+    },
+    {
+      "id": 18,
+      "reference": "T-TGK205",
+      "designation": "POWER BANK S-LINK IP-G19 2EN1 MICRO USB & LIGHTNING",
+      "marque": "s-LINK",
+      "prix": "47,900",
+      "image": "images/power-bank-s-link-ip-g19-2en1-micro-usb-lightning-10-000-mah-vert.jpg"
+    },
+    {
+      "id": 19,
+      "reference": "TMLOP45",
+      "designation": "ECOUTEUR",
+      "marque": "SAMSUNG",
+      "prix": "45,500",
+      "image": "images/ecouteurs-avec-micro-snopy-sn-x04-epsilon-blanc-gold.jpg"
+    }
+  ]
+}
